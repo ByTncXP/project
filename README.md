@@ -58,13 +58,10 @@ Sub-domain takeover vulnerability occur when a sub-domain (__subdomain.example.c
 ## Installation:
 
 ```
-# git clone https://github.com/ByTncXP/project/takeover.git
+# git clone https://github.com/ByTncXP/takeover.git
 # cd takeover
 # python takeover.py
-```
-__or:__
 
-```
 
 
 ## Usage
